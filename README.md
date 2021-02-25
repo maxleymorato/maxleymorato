@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Estudo Sistemas para Internet e busco aprender e contribuir com a evolução da tecnologia da informação aqui no GitHub.
 <!--
 **maxleymorato/maxleymorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
